@@ -1,0 +1,7 @@
+{
+    "name": "string",
+    "age": "integer",
+    "email": "string",
+    "is_student": "boolean",
+    "grades": []
+}
